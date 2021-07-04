@@ -61,5 +61,6 @@ The balanced accuracy score is 92%. The high risk precision is 9% and the recall
 <a name="Summary"></a>
 ## Summary
 
+In the first four samples the oversampled and undersampled. The accuracy ranged from 53% to 65%. The precision remained the same between all 4 algorithms. The accuract score incresed to 77% with the Balanced Random Forest Claissifier and the high risk precision increased to 3% and a recall score of 66%. The one I would recommend using is the Easy Ensemble because the accuracy score was the highest with 92%, the high risk precision score is 9% and the recall score is 89%. 
 
 
